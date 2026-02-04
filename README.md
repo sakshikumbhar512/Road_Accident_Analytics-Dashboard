@@ -20,4 +20,5 @@ Time Analysis: A line graph compares the current year to the previous year, show
 Interactive Map: A visual heatmap on the right pinpointing specific accident clusters, allowing users to zoom into high-risk zones.
 
 Summary Note: The dashboard is highly effective because it uses color-coded icons and percentage indicators to show at a glance that while numbers are high, the overall trend is moving toward fewer accidents.
-Screenshot:
+
+Link of Screenshot: https://github.com/sakshikumbhar512/Road_Accident_Analytics-Dashboard/blob/main/SS_OF_Road_Accident_Analysis_Dashbord.jpg
